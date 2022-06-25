@@ -1,4 +1,4 @@
-# Body-Signal-Smoking
+# Smoking-Signal
 
 ## Introduction: This project involves solving a binary classification machine learning problem in Healthcare.
 
